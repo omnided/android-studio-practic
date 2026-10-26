@@ -1,0 +1,8 @@
+# Скомпільовані класи IDE
+out/
+
+# Gradle немає, тому KotlinBasics.iml і .idea/{modules,misc}.xml, .idea/libraries/
+# описують проєкт і зберігаються в git. Ігноруються лише локальні файли IDE.
+.idea/workspace.xml
+.idea/caches/
+.idea/shelf/
